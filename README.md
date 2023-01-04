@@ -8,6 +8,7 @@
 * Write any 2 numbers
 ## Errors
 * If an operation was written wrong: wrong operation
+* If you didn´t wrote any operations: no operation
 * If you didn´t wrote any numbers: no numbers
 ## Output
 * Output will be shown in json array
