@@ -1,6 +1,6 @@
 # API
 ## Name
-* apif1.php
+* index.php
 ## Description
 * Simple API for calculating
 ## Manual
