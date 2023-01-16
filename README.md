@@ -1,4 +1,5 @@
 # API
+* Categorizes by phases from f1 to f4
 ## Name
 * index.php
 ## Description
