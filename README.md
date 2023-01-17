@@ -1,9 +1,10 @@
 # API
-* Categorizes by phases from f1 to f4
-## Name
+* Categories f1 ---> f4
+## File Name
 * index.php
 ## Description
 * Simple API for calculating
+* made in php
 ## Manual
 * Choose one of these operations: "sum","minus","multi","div","modulo"
 * Write any 2 numbers
