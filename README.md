@@ -1,6 +1,6 @@
 # API
 * Categories f1 ---> f4
-## File Name
+* ## File Name
 * index.php
 ## Description
 * Simple Math API
@@ -23,6 +23,12 @@
 * filter_input - Gets a variable and filters it
 * count - Counts elements in array
 * echo - Outputs strings
+#### Operations
+* sum - Adds numbers together : 2 + 2
+* minus - Removes numbers : 2 - 2
+* multi - adds numbers and their clone : 2 * 2
+* div - Subtracting 2 numbers : 2 / 2
+* modulo - ratio expressed as a fraction of 100 : 2%
 ## Errors
 * If an operation was written wrong: wrong operation
 * If you didn´t wrote any operations: no operation
