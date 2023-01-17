@@ -7,8 +7,11 @@
 * Made in php
 * Code in UTF-8
 ## Manual - Code Breakdown
+### Manual
 * Choose one of these operations: "sum","minus","multi","div","modulo"
 * Write any 2 numbers
+* Example :
+* https://localhost/[index.php]/?oper=[minus]&numbers=[6],[15]
 ### Code Breakdown
 #### Variables
 * $numbers - For the declaration of numbers
